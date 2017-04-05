@@ -1,4 +1,4 @@
-update=mer 05 apr 2017 22:07:49 CEST
+update=mer 05 apr 2017 22:15:57 CEST
 version=1
 last_client=kicad
 [pcbnew]
@@ -62,7 +62,7 @@ LibName30=lib/Arduino_by_smisioto/w_connectors
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
-PlotDirectoryName=
+PlotDirectoryName=plot/
 SubpartIdSeparator=0
 SubpartFirstId=65
 NetFmtName=
