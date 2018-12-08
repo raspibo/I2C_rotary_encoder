@@ -6,4 +6,4 @@ Based on http://www.g7smy.co.uk/2014/08/rotary-encoders-on-the-i2c-bus/ article,
 
 Schematic
 =========
-<img src=https://rawgit.com/raspibo/I2C_rotary_encoder/master/kicad/plot/I2C_rotary_encoder.svg>
+<img src=https://cdn.jsdelivr.net/gh/raspibo/I2C_rotary_encoder/kicad/plot/I2C_rotary_encoder.svg>
